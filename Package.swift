@@ -18,7 +18,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AIDiabeticCareAssistantShared",
-            url: "https://github.com/sbkakoty/AIDiabeticCareAssistantShared/releases/download/1.0.0/AIDiabeticCareAssistantShared.xcframework.zip",
+            url: "https://github.com/sbkakoty/AIDiabeticCareAssistantShared/releases/download/1.0.1/AIDiabeticCareAssistantShared.xcframework.zip",,
             checksum: "964c5c6106617a03271df94af816c8b84bd35955070fc9b91aa74225bde1f944"
         )
     ]
