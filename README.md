@@ -601,14 +601,18 @@ https://github.com/sbkakoty/AIDiabeticCareAssistantShared
 
 # License
 
-Add the appropriate license for this project here.
+AIDiabeticCareAssistantShared is licensed under the MIT License.
 
-If this package is proprietary, replace this section with the applicable proprietary-license statement.
+Copyright (c) 2026 Sonjoy Borkakoty
+
+See the [LICENSE](LICENSE) file for the complete license text.
 
 ---
 
 # Author
 
-**AIDiabeticCareAssistantShared**
+**Sonjoy Borkakoty**
 
-Kotlin Multiplatform shared library for the AI Diabetic Care Assistant application.
+AIDiabeticCareAssistantShared is developed and maintained by Sonjoy Borkakoty.
+
+GitHub: https://github.com/sbkakoty
