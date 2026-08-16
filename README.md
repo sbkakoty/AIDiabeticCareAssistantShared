@@ -605,8 +605,6 @@ AIDiabeticCareAssistantShared is licensed under the MIT License.
 
 Copyright (c) 2026 Sonjoy Borkakoty
 
-See the [LICENSE](LICENSE) file for the complete license text.
-
 ---
 
 # Author
